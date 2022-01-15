@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.pulsante {
+	width: 80px;
+	height: 40px;
+	margin-left: 15px;	
+	text-align: center;
+	font-size: 18pt;
+}
+body{
+	background-color: #001933;
+}
